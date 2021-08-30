@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kikirh18
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React, JavaScript, CSS, UI/UX
+- 🌱 I’m currently learning React, JavaScript,HTML, CSS, UI/UX
 - 💞️ I’m looking to collaborate on Frontend Development
 - 📫 How to reach me you can send me email at kiki.rh18@gmail.com
 
